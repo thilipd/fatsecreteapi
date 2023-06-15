@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "FATSECRET_CONSUMER_KEY": "acb34e45b81449ea8754ef32cb80bd4d",
+    "FATSECRET_CONSUMER_SECRET": "67b089b8f2674906894a9d8372d07742",
+    "FATSECRET_URI": "https://platform.fatsecret.com/rest/server.api",
+    "WEBSITE_HTTPLOGGING_RETENTION_DAYS": 2,
+    "WEBSITE_CORS_ALLOWED_ORIGINS": "http://127.0.0.1:61727"
+  }
+}
